@@ -1,0 +1,48 @@
+.html_Cards{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    justify-content: space-between;
+    
+   
+    
+    
+}
+.html_Card{
+    width: 200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+  
+}
+.card1{ 
+    
+    
+    background-color: aquamarine;
+    
+
+}
+
+.card2{ 
+    
+    
+    background-color: olive;
+    
+  
+}
+.card3{
+    
+    
+    background-color: aqua;
+    
+    
+}
+.card4{
+    
+    
+    background-color: red;
+    
+}
