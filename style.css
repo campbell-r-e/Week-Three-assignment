@@ -1,9 +1,10 @@
 .html_Cards{
-    display: flex;
-    flex-direction: column;
-    width: 600px;
-    justify-content: space-between;
-    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: repeat(4); 
+    grid-auto-rows: 40px;
+    gap: 10px; 
+    width: 500px;
    
     
     
@@ -12,8 +13,7 @@
     width: 200px;
     height: 40px;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    
     
     
   
