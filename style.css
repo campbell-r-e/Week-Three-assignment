@@ -75,3 +75,10 @@
     background-color: red;
     
 }
+
+.Score{
+    gap: 20px;
+    text-align: right;
+    font-size:larger;
+    text-size-adjust: 70px;
+}
